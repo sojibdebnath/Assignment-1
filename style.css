@@ -81,10 +81,10 @@ h2{
 
 .img-add{
         height: 230px;
-                width: 250px;
-                padding: 40px;
-                vertical-align: middle;
-                border-radius: 20%;
+        width: 200px;
+        padding: 40px;
+        vertical-align: middle;
+        border-radius: 20%;
 
 }
 
@@ -92,9 +92,9 @@ h2{
 
 .img{
     margin: 20%;
-    height: 70%;
+    height: 50%;
     padding-bottom:10px%;
-    padding-top: 60px;
+    padding-top: 50px;
 }
 .am{
     padding-top: 20%;
