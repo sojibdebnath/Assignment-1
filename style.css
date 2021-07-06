@@ -91,9 +91,10 @@ h2{
 
 
 .img{
-    margin: 0%;
-    padding-bottom:0%;
-    padding-top: 28%;
+    margin: 20%;
+    height: 70%;
+    padding-bottom:10px%;
+    padding-top: 60px;
 }
 .am{
     padding-top: 20%;
